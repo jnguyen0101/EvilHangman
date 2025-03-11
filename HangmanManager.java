@@ -1,18 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, Jenny Nguyen, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name: Jenny Nguyen
- *  email address: nguyenjenny01012006@gmail.com
- *  UTEID: jtn2497
- *  Section 5 digit ID: 50256
- *  Grader name: Lauren
- *  Number of slip days used on this assignment: 0
- */
-
-// add imports as necessary
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Map;
